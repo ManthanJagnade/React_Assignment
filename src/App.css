@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  color: #b8db0a;
+  font-weight: 500;
+  font-size: 45px;
+  font-display: 100;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  background-color: #282c34;
+
 }
 
 .App-logo {
